@@ -1,0 +1,5 @@
+C:/source/repos/dotnetcadet/development-c/src/training/Training/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/source/repos/dotnetcadet/development-c/src/training/Training/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/source/repos/dotnetcadet/development-c/src/training/Training/out/build/x64-debug/Training.CMake/CMakeFiles/Training.CMake.dir
+C:/source/repos/dotnetcadet/development-c/src/training/Training/out/build/x64-debug/Training.CMake/CMakeFiles/edit_cache.dir
+C:/source/repos/dotnetcadet/development-c/src/training/Training/out/build/x64-debug/Training.CMake/CMakeFiles/rebuild_cache.dir
